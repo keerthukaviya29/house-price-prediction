@@ -1,4 +1,5 @@
-** House Price Prediction**
+House Price Prediction
+
 The House Price Prediction project focuses on building a machine learning model that can accurately estimate the selling price of residential homes based on a variety of structural and property-related features. Predicting house prices is a classic regression problem widely used in the real estate industry, property valuation, and investment analysis. This project uses the popular Kaggle House Prices Advanced Regression Techniques dataset, which contains comprehensive housing information with over 70+ attributes describing the physical characteristics and quality of each property.
 
 The primary objective of the project is to explore how different features—such as living area, number of rooms, and overall material quality—affect the final sale price of a house. Before training the model, the dataset undergoes several preprocessing steps including handling missing values, encoding categorical variables, and selecting meaningful numeric features. Categorical columns such as neighborhood or house style are transformed using label encoding, while missing values in numerical fields are filled using median values to ensure consistency.
